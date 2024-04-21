@@ -3,7 +3,7 @@ dedsec_binaries is a linux executable collection like, malware, trojan, ransomwa
 
 binary  | function
 ------------- | -------------
-Content Cell  | Content Cell
+dedsec_password_dump  | dump linux user & password from memory
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 Content Cell  | Content Cell
