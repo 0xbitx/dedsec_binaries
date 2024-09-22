@@ -1,5 +1,5 @@
 # dedsec_binaries
-dedsec_binaries is a linux executable collection like, malware, trojan, ransomware, adware, virus etc..
+dedsec_binaries is a linux & windows executable collection like, malware, trojan, ransomware, adware, virus etc..
 
 binary  | function
 ------------- | -------------
