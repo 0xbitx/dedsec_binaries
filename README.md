@@ -10,7 +10,7 @@ bsod-persistent.exe  | Blue Screen of Death for win7,10,11 (persistent)
 bsod-permanent.exe  | Blue Screen of Death for win7,10,11 (permanently)
 rickroll.exe  | rickroll friendly
 dedsec.exe   | dedsec virus
-Content Cell  | Content Cell
+jumpscare.exe  | jumpscare friendly
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 Content Cell  | Content Cell
