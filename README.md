@@ -8,7 +8,7 @@ dedsec_ran  | encrypt linux files
 bsod.exe  | Blue Screen of Death for win7,10,11
 bsod-persistent.exe  | Blue Screen of Death for win7,10,11 (persistent)
 bsod-permanent.exe  | Blue Screen of Death for win7,10,11 (permanently)
-Content Cell  | Content Cell
+rickroll.exe  | rickroll friendly
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 Content Cell  | Content Cell
